@@ -13,5 +13,5 @@ Fact about the Ridgecrest Earthquake
 * Residents of California are urged to be ready for larger quakes
     * Link to prepardness site: [Ready](http://ready.gov/earthquakes)
 
-![Map_quake](quake_map.jpeg)
+![Map_quake](quake_map.jpg)
 
